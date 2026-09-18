@@ -2,7 +2,7 @@
 
 > **Live (Vercel):** [https://ledger-twin.vercel.app](https://ledger-twin.vercel.app)  
 > **Demo video:** [Dark Phoenix walkthrough (Google Drive)](https://drive.google.com/file/d/1QmEg3FgbV0J8gi7wgbU4NMrZnpsfwNOf/view?usp=drive_link)  
-> **Source:** [https://github.com/92meharali/ledger-twin](https://github.com/92meharali/ledger-twin)
+> **Source:** [https://github.com/92meharali/ledger-twin](https://github.com/Hassan-Ali-17/ledger-twin)
 
 | | |
 |---|---|
