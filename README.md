@@ -1,4 +1,11 @@
-# Ledger Twin
+```
+██╗     ███████╗██████╗  ██████╗ ███████╗██████╗     ████████╗██╗    ██╗██╗███╗   ██╗
+██║     ██╔════╝██╔══██╗██╔════╝ ██╔════╝██╔══██╗    ╚══██╔══╝██║    ██║██║████╗  ██║
+██║     █████╗  ██║  ██║██║  ███╗█████╗  ██████╔╝       ██║   ██║ █╗ ██║██║██╔██╗ ██║
+██║     ██╔══╝  ██║  ██║██║   ██║██╔══╝  ██╔══██╗       ██║   ██║███╗██║██║██║╚██╗██║
+███████╗███████╗██████╔╝╚██████╔╝███████╗██║  ██║       ██║   ╚███╔███╔╝██║██║ ╚████║
+╚══════╝╚══════╝╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝       ╚═╝    ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝
+```
 
 > **Live (Vercel):** [https://ledger-twin.vercel.app](https://ledger-twin.vercel.app)  
 > **Demo video:** [Dark Phoenix walkthrough (Google Drive)](https://drive.google.com/file/d/1QmEg3FgbV0J8gi7wgbU4NMrZnpsfwNOf/view?usp=drive_link)  
@@ -15,6 +22,13 @@
 Payment & identity reconciliation agent for the **Lemma × Comma Capital Hackathon**.
 
 > Your books lie until payments, emails, and client names agree.
+
+---
+
+## Contributors
+
+- [@92meharali](https://github.com/92meharali)
+- [@HamzaFarooq3333](https://github.com/HamzaFarooq3333)
 
 ---
 
